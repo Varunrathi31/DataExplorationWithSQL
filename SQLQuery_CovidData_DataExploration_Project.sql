@@ -7,10 +7,10 @@ ORDER BY [location] ASC,
 
 
 
---VIEWING ALL DATA PRESENT IN COVID VACCINATION INFORMATION
---SELECT * FROM PortfolioProject..CovidVaccinations
---ORDER BY [location] ASC,
---		 [date] ASC
+VIEWING ALL DATA PRESENT IN COVID VACCINATION INFORMATION
+SELECT * FROM PortfolioProject..CovidVaccinations
+ORDER BY [location] ASC,
+	 [date] ASC
 
 
 
